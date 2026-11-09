@@ -1,0 +1,21 @@
+LICENSE
+
+The original material in this skill (the instructions, the author's original
+artwork and templates, the party-accessory images, and the documentation) is
+credited to JoMeow the black cat.
+
+The skill and its outputs must not be used for sale, advertising, merchandise,
+sponsorship, monetized distribution, commercial promotion, or to imply official
+affiliation, licensing, approval, or endorsement.
+
+THIRD-PARTY MATERIAL
+
+This notice applies only to original material contributed to this skill. It
+does not grant any rights in third-party characters, names, trademarks, artwork,
+or assets, including Tom and Jerry or any bundled material that depicts or is
+derived from third-party works. Users are responsible for obtaining any
+permissions required for their use and for complying with applicable law and
+platform terms.
+
+THE ORIGINAL MATERIAL IN THIS SKILL IS PROVIDED "AS IS", WITHOUT WARRANTY OF
+ANY KIND, EXPRESS OR IMPLIED.
