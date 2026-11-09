@@ -2,7 +2,15 @@
 
 An Agent Skill that turns a photo of your cat into a vintage Tom-and-Jerry-style comic-cover birthday poster: your real cat, in a party hat, next to Tom and Jerry at the birthday cake.
 
-![Example poster](examples/example-output.png)
+<p>
+
+&#x20; <img src="examples/example-output1.png" width="32%" alt="Example poster 1">
+
+&#x20; <img src="examples/example-output2.png" width="32%" alt="Example poster 2">
+
+&#x20; <img src="examples/example-output3.png" width="32%" alt="Example poster 3">
+
+</p>
 
 *Free and open source. For personal, non-commercial celebrations only.*
 
@@ -18,10 +26,10 @@ Also supported: several cats in one poster, canvas ratios 4:3 (default), 1:1 and
 
 Copy the `cat-birthday-poster` folder (not the whole repository) into the skills folder of your agent, for example:
 
-- Codex: `~/.codex/skills/`
-- Claude Code: `~/.claude/skills/`
+* Codex: `\~/.codex/skills/`
+* Claude Code: `\~/.claude/skills/`
 
-On Windows, `~` is your user folder (for example `C:\Users\<you>`).
+On Windows, `\~` is your user folder (for example `C:\\Users\\<you>`).
 
 Then ask your agent for a Tom and Jerry birthday poster for your cat, and upload a clear photo.
 
@@ -36,3 +44,4 @@ Codex, where it is expected to perform better than on other platforms.
 The original material (instructions, templates, party-accessory images, documentation) is licensed as described in [LICENSE.txt](cat-birthday-poster/LICENSE.txt). Credit: JoMeow the black cat.
 
 Tom and Jerry and related names and characters belong to their respective owners. This project is an unofficial fan creation: it is not affiliated with, endorsed by or licensed by them, and its characters are not covered by the license above. Posters made with it are for personal, non-commercial use and must not be sold, used for advertising or merchandise, or presented as official.
+
